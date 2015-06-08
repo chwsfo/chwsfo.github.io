@@ -1,0 +1,20 @@
+/*
+This CSS resource incorporates links to font software which is
+the valuable copyrighted property of WebType LLC, The Font Bureau
+and/or their suppliers. You may not attempt to copy, install,
+redistribute, convert, modify or reverse engineer this font
+software. Please contact WebType with any questions: www.webtype.com
+*/
+
+body:after { content: ''; background-image: url(//pls.webtype.com/v.gif?ct=153814,153814,153814,153814&r=61810&p=53576&h=2YkjqUHPqfwCNZoYfoyOiA%3d%3d); }
+
+@font-face {
+ font-family: "Harriet Display Light";
+ src: url("//cloud.webtype.com/webtype/ff2/2/625e70e5-cfb0-465a-a49b-41a0cc3abdcb?ec_token=8f7c4c4997246fd7fa92017cc9943b5611e3cb102c2cda1fb97960cf07cd4d5c372dcc78d9d498c3bda2959aedbad0f06a3be98e5bdd52194238e2057404bfbb0c864088d9470cb704b0b015413db323f59926f617d8a03f1e6ee0d7c4");
+ src:  url("//cloud.webtype.com/webtype/ff2/2/625e70e5-cfb0-465a-a49b-41a0cc3abdcb?ec_token=8f7c4c4997246fd7fa92017cc9943b5611e3cb102c2cda1fb97960cf07cd4d5c372dcc78d9d498c3bda2959aedbad0f06a3be98e5bdd52194238e2057404bfbb0c864088d9470cb704b0b015413db323f59926f617d8a03f1e6ee0d7c4#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff2/1/08aabdde-5168-4aa0-b31c-f9f16e007d14?ec_token=8f7c4c4997246fd7fa92017cc9943b5611e3cb102c2cda1fb97960cf07cd4d5c372dcc78d9d498c3bea29390b9be85a460c09423d5bc87f3982c4e3f84e47ae105df2f7a5e8a618ecb9394fe4ff253d0ef78660b66f35d29e0d709542a") format("truetype"),
+  url("//cloud.webtype.com/webtype/ff2/3/3e9f360a-2b73-4c94-8ba0-0ceb72eaa3c1?ec_token=8f7c4c4997246fd7fa92017cc9943b5611e3cb102c2cda1fb97960cf07cd4d5c372dcc78d9d498c3bca290cde1b9d4f638ea524178a05c7456aa4d8bfd29396f4a7579b506992fe178a1babb4f69b3fa7253d190d65b005057d543308e") format("woff"),
+  url("//cloud.webtype.com/webtype/ff2/4/a40a84de-7eb0-4b17-9d76-ad8ebbadc4f4?ec_token=8f7c4c4997246fd7fa92017cc9943b5611e3cb102c2cda1fb97960cf07cd4d5c372dcc78d9d498c3bba2c29ce8bedff426967591d080b58eb8bc38e403579c57b16070cac2427982300fd09496ddb4e95f6aa4a295df8ba9f454f317d3#web") format("svg");
+ font-style: normal;
+ font-weight: normal;
+}
