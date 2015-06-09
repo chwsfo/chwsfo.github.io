@@ -1,6 +1,6 @@
 /*
 * Skeleton V2.0.4
-* Copyright 2014, Dave Gamache - Thanks Dave! Cheers @
+* Copyright 2014, Dave Gamache - Thanks Dave! Cheers  - C
 * www.getskeleton.com
 * Free to use under the MIT license.
 * http://www.opensource.org/licenses/mit-license.php
@@ -320,7 +320,7 @@ label > .label-body {
   font-family: 'akzidenz-grotesk-next', sans-serif;
   display: inline-block;
   margin-left: .5rem;
-  font-weight: normal; }
+  font-weight: 200; }
 
 
 /* Lists
